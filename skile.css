@@ -1,0 +1,87 @@
+* Section-2222 */
+#section-22 {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 30px;
+    padding-top: 130px;
+}
+
+section {
+    background-color: #6c7974;
+
+}
+
+#text {
+    margin: 0px;
+    font-size: 50px;
+    color: #05c182;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.opacity {
+    opacity: 70px;
+}
+
+#skills {
+    margin: 0px;
+    font-size: 30px;
+    color: #05c182;
+}
+
+.boder-style {
+    border: 1px solid #05c182;
+    padding: 40px 0px 10px 0px;
+    border-radius: 45px;
+    text-align: center;
+    width: 80px;
+    height: 110px;
+}
+/* section-00 */
+.section-00 {
+    border: 1px solid #9b2e2e;
+    border: none;
+    color: #beb1b1;
+    padding: 10px;
+    width: 80px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #5d706a;
+}
+
+.section-00:hover {
+    border: 1px solid #9b2e2e;
+    border: none;
+    color: #000000;
+    padding: 10px;
+    width: 80px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #05c182;
+}
+
+#nulla{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px;
+   
+}
+/* element-11 */
+.element-11{
+    display: flex;
+    gap: 20px;
+}
+
+/* convallis */
+.convallis{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 8px;
+}
+
+
+.img-5{
+    margin-right: 15px;
+}

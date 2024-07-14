@@ -1,0 +1,28 @@
+footer {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    background-color: #f6f2ee;
+    padding: 50px;
+}
+
+footer input {
+    padding: 13px;
+    width: 230px;
+    border: none;
+}
+
+footer textarea {
+    padding: 13px;
+    width: 230px;
+    border: none;
+}
+
+#footer-button {
+    background-color: #f0784c;
+    padding: 15px 30px;
+    border: none;
+    color: white;
+    font-size: 17px;
+    border-radius: 7px;
+}

@@ -1,0 +1,313 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Navber Section */
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #bbacac;
+}
+
+.opacity {
+    opacity: 60%;
+}
+
+#img-style img {
+    height: 60px;
+    width: 60px;
+}
+
+#img-style {
+    display: flex;
+    align-items: center;
+}
+
+#text-style {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    text-decoration: none;
+}
+
+#text-style a {
+
+    text-decoration: none;
+}
+
+.button-style {
+    background-color: #05c182;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+.button-style:hover {
+    background-color: #5d706a;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+.button-style a {
+    color: #000000;
+}
+
+.button-style a:hover {
+    color: #e0d2d2;
+}
+
+/* Section-1111 */
+#section-11 {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding: 70px 0 80px 100px;
+    background-color: #afcfc5;
+}
+
+#img img {
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+#text-style-1 {
+    font-size: 45px;
+    color: white;
+    padding-right: 20px;
+}
+
+.button-style-1 {
+    background-color: #05c182;
+    padding: 10px;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+.button-style-1:hover {
+    background-color: #5d706a;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+#a-style a {
+    text-decoration: none;
+}
+
+/* github and linkedin  */
+#github-linkedin {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+#github-img img {
+    height: 15px;
+    width: 15px;
+}
+
+#github-img {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+
+}
+
+
+#linkedin-img img {
+    height: 20px;
+    width: 20px;
+}
+
+#linkedin-img {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+
+#position {
+    border: 1px solid #05c182;
+    border: none;
+    padding: 10px;
+    margin-right: 20px;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    padding: 10px;
+    background-color: #beab92;
+    border-radius: 5px;
+    position: absolute;
+    top: 500px;
+    right: 10px;
+}
+
+/* Section-2222 */
+#section-22 {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 30px;
+    padding-top: 130px;
+}
+
+#bag-color{
+    background-color: #6c7974;
+
+}
+
+#text {
+    margin: 0px;
+    font-size: 50px;
+    color: #05c182;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.opacity {
+    opacity: 70px;
+}
+
+#skills {
+    margin: 0px;
+    font-size: 30px;
+    color: #05c182;
+}
+
+.boder-style {
+    border: 1px solid #05c182;
+    padding: 40px 0px 10px 0px;
+    border-radius: 45px;
+    text-align: center;
+    width: 80px;
+    height: 110px;
+}
+/* section-00 */
+.section-00{
+    border: 1px solid #9b2e2e;
+    border: none;
+    color: #beb1b1;
+    padding: 10px;
+    width: 80px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #5d706a;
+}
+
+.section-00:hover {
+    border: 1px solid #9b2e2e;
+    border: none;
+    color: #000000;
+    padding: 10px;
+    width: 80px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #05c182;
+}
+
+#nulla{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px;
+   
+}
+/* element-11 */
+.element-11{
+    display: flex;
+    gap: 20px;
+}
+
+/* convallis */
+.convallis{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 8px;
+}
+
+.img-5{
+    margin-right: 15px;
+}
+
+/* section-3333 */
+
+#have-0102{
+    display: flex;
+    gap: 30px;
+
+}
+
+#have-00{
+    background-color: #454d4a;
+    padding: 50px 50px 100px 50px;
+    
+}
+.Computer{
+    border: 1px solid #05c182;
+    border: none;
+    border-radius: 7px;
+    width: 400px;
+    padding: 20px;
+    background-color: #547e70;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+.Science{
+    font-size: 30px;
+    margin: 0px;
+    border: 1px solid #ffffff;
+    padding: 10px;
+    width: 210px;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+#Science{
+    font-size: 30px;
+    margin: 0px;
+    border: 1px solid #ffffff;
+    padding: 10px;
+    width: 210px;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+/* Footer Section */
+
+footer {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    background-color: #f6f2ee;
+    padding: 50px;
+}
+
+footer input {
+    padding: 13px;
+    width: 230px;
+    border: none;
+}
+
+footer textarea {
+    padding: 13px;
+    width: 230px;
+    border: none;
+}
+
+#footer-button {
+    background-color: #f0784c;
+    padding: 15px 30px;
+    border: none;
+    color: white;
+    font-size: 17px;
+    border-radius: 7px;
+}
+
+
